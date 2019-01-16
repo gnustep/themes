@@ -1,0 +1,14 @@
+{
+    GSThemeAuthors = (
+	"Riccardo Mottola"
+    );
+    GSThemeDetails = "Think dark. A dark theme with a red accent.";
+    GSThemeDomain = {
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemeLicense = "";
+    GSThemePreview = "thinkdark_preview_128.tif";
+    GSThemeTiles = {
+    };
+    GSThemeVersion = "0.0";
+}

@@ -1,0 +1,14 @@
+{
+    GSThemeAuthors = (
+	"Riccardo Mottola"
+    );
+    GSThemeDetails = "A sleek theme with little contast and few shadows\000";
+    GSThemeDomain = {
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemeLicense = "GPL v3\000";
+    GSThemePreview = "sleek_preview_128.tif";
+    GSThemeTiles = {
+    };
+    GSThemeVersion = "1.0";
+}

@@ -1,0 +1,14 @@
+{
+    GSThemeAuthors = (
+	"Riccardo Mottola"
+    );
+    GSThemeDetails = "Neos. The next step in theming, but with a strong root in NeXT.";
+    GSThemeDomain = {
+	GSBackHandlesWindowDecorations = YES;
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemePreview = "neos_preview_128.tif";
+    GSThemeTiles = {
+    };
+    GSThemeVersion = "0.2";
+}

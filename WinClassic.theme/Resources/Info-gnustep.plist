@@ -1,0 +1,21 @@
+{
+    GSThemeAuthors = (
+	"Riccardo Mottola	"
+    );
+    GSThemeDetails = "Windows classic them\000\000\000e\000\000";
+    GSThemeDomain = {
+	GSBackHandlesWindowDecorations = NO;
+	GSScrollerButtonsOffset = 1.0;
+	NSMenuInterfaceStyle = NSWindows95InterfaceStyle;
+	NSScrollViewInterfaceStyle = NSWindows95InterfaceStyle;
+	NSScrollerInterfaceStyle = NSWindows95InterfaceStyle;
+    };
+    GSThemeIcon = Thematic.png;
+    GSThemeTiles = {
+	GSScrollerUpArrow = {
+	    FileName = GSScrollerUpArrow.tif;
+	    HorizontalDivision = 2;
+	    VerticalDivision = 2;
+	};
+    };
+}

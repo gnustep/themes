@@ -1,0 +1,13 @@
+{
+    GSThemeAuthors = (
+	"Ga\U00EBl El\U00E9go\U00EBt",
+	"Riccardo Mottola"
+    );
+    GSThemeDetails = "True tribute to the NeXT heritage\000";
+    GSThemeDomain = {
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemePreview = heritage_preview_256.tif;
+    GSThemeLicense = "GPL v2+";
+    GSThemeVersion = "0.0";
+}
