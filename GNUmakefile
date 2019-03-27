@@ -34,5 +34,4 @@ Tango.theme \
 WinClassic.theme \
 Heritage.theme \
 
-
 include $(GNUSTEP_MAKEFILES)/resource-set.make
