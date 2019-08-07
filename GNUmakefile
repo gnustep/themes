@@ -33,5 +33,6 @@ Sleek.theme \
 Tango.theme \
 WinClassic.theme \
 Heritage.theme \
+ThinkDark2.theme \
 
 include $(GNUSTEP_MAKEFILES)/resource-set.make
